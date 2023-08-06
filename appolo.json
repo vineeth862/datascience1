@@ -1,22 +1,24 @@
 [
-    {
-      "labName":"Appolo Diagnostics",
-      "branchDetails":[
-        {
-          "fullAddress":"#9, Shop No:2, Ground Floor, 1st Main, 12th Cross Rd, Pai Layout, Mahadevapura, Bengaluru, Karnataka 560016",
-          "locality":"Mahadevapura",
-          "pincode":"560016",
-          "availablePincodeDetails":["560036","560066","560093"]
-        },{
-          "fullAddress":"102. 1st floor, 5th cross malleshwaram",
-          "locality":"Malleshwaram",
-          "pincode":"560003",
-          "availablePincodeDetails":["560001","560002","560058"]}
-    
-      ],
-      "test":["AL001","AL002","AL003","AL004","AL005"]
-        
-        
-      }
+  {
+    "Appolo Diagnostics":{
+    "labName":"Appolo Diagnostics",
+    "branchDetails":[
+      {
+        "fullAddress":"#9, Shop No:2, Ground Floor, 1st Main, 12th Cross Rd, Pai Layout, Mahadevapura, Bengaluru, Karnataka 560016",
+        "locality":"Mahadevapura",
+        "pincode":"560016",
+        "availablePincodeDetails":["560036","560066","560093"]
+      },{
+        "fullAddress":"102. 1st floor, 5th cross malleshwaram",
+        "locality":"Malleshwaram",
+        "pincode":"560003",
+        "availablePincodeDetails":["560001","560002","560058"]}
   
-  ]
+    ],
+    "test":["AL001","AL002","AL003","AL004","AL005"]
+      
+      
+    }}
+  
+
+]
