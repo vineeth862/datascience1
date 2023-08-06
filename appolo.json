@@ -17,7 +17,8 @@
     "test":["AL001","AL002","AL003","AL004","AL005"]
       
       
-    },{
+    },
+  {
     "labName":"Appolo2 Diagnostics",
     "branchDetails":[
       {
@@ -25,7 +26,8 @@
         "locality":"Mahadevapura",
         "pincode":"560016",
         "availablePincodeDetails":["560036","560066","560093"]
-      },{
+      },
+      {
         "fullAddress":"102. 1st floor, 5th cross malleshwaram",
         "locality":"Malleshwaram",
         "pincode":"560003",
@@ -33,9 +35,6 @@
   
     ],
     "test":["AL001","AL002","AL003","AL004","AL005"]
-      
-      
+  
     }
-
-
 ]
