@@ -1,6 +1,5 @@
 [
   {
-    "Appolo Diagnostics":{
     "labName":"Appolo Diagnostics",
     "branchDetails":[
       {
@@ -18,7 +17,6 @@
     "test":["AL001","AL002","AL003","AL004","AL005"]
       
       
-    }}
-  
+    }
 
 ]
