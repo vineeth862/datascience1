@@ -1,6 +1,6 @@
 [
   {
-    "labName":"Appolo Diagnostics",
+    "labName":"Apollo Diagnostics",
     "branchDetails":[
       {
         "fullAddress":"#9, Shop No:2, Ground Floor, 1st Main, 12th Cross Rd, Pai Layout, Mahadevapura, Bengaluru, Karnataka 560016",
@@ -17,24 +17,43 @@
     "test":["AL001","AL002","AL003","AL004","AL005"]
       
       
-    },
-  {
-    "labName":"Appolo2 Diagnostics",
+    },{
+    "labName":"RV Metropolis Diagnostic and Healthcare Centre Pvt. Ltd.",
     "branchDetails":[
       {
-        "fullAddress":"#9, Shop No:2, Ground Floor, 1st Main, 12th Cross Rd, Pai Layout, Mahadevapura, Bengaluru, Karnataka 560016",
+        "fullAddress":"Shop No 3B, No 190/4B, Ground Floor, Dooravaninagara, Narayanapura Mahadevpura Bengaluru - 560048",
         "locality":"Mahadevapura",
-        "pincode":"560016",
+        "pincode":"560048",
         "availablePincodeDetails":["560036","560066","560093"]
-      },
-      {
-        "fullAddress":"102. 1st floor, 5th cross malleshwaram",
+      },{
+        "fullAddress":"No 76/10, 15th Cross, 4th MainMalleshwaram,Bengaluru - 560003",
         "locality":"Malleshwaram",
         "pincode":"560003",
         "availablePincodeDetails":["560001","560002","560058"]}
   
     ],
-    "test":["AL001","AL002","AL003","AL004","AL005"]
+    "test":["BL001","BL002","BL003","BL004","BL005"]
+      
+      
+    },{
+    "labName":"Dr Lal Path Labs",
+    "branchDetails":[
+      {
+        "fullAddress":"Dr. Lal Path Labs Ltd,#183,Sri Saiharsha tower,1st floor, above state Bank of mysore,opp forum value mall, whitefield Bengaluru - 560066",
+        "locality":"Whitefield",
+        "pincode":"560066",
+        "availablePincodeDetails":["560036","560066","560093"]
+      },{
+        "fullAddress":"90/B, Ground Floor, Corporation No-13/1, ï¿½Ward No.4, 18th Cross, I Block, 19th Main Road, Rajaji Nagar, Bengaluru, Karnataka-560010",
+        "locality":"Rajaji Nagar",
+        "pincode":"560010",
+        "availablePincodeDetails":["560001","560002","560058"]}
   
+    ],
+    "test":["CL001","CL002","CL003","CL004","CL005"]
+      
+      
     }
+
+
 ]
